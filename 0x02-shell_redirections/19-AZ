@@ -1,0 +1,2 @@
+#!/bin/bash
+tr 'AC' 'ZE' < input.txt > output.txt
